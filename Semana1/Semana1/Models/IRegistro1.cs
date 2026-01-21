@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Semana1.Models
+{
+    public interface IRegistro1
+    {
+        string codigo(string variable);
+    }
+}

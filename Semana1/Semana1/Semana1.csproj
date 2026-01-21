@@ -125,7 +125,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\IRegistro1.cs" />
+    <Compile Include="Models\IRegistro2.cs" />
     <Compile Include="Models\Registro.cs" />
+    <Compile Include="Models\Registro2.cs" />
+    <Compile Include="Models\Registro3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
