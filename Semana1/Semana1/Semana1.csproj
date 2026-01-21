@@ -130,6 +130,7 @@
     <Compile Include="Models\Registro.cs" />
     <Compile Include="Models\Registro2.cs" />
     <Compile Include="Models\Registro3.cs" />
+    <Compile Include="Models\Singleton.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -183,9 +184,12 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Registro\Index.cshtml" />
     <Content Include="Views\Registro\MostrarRegistro.cshtml" />
     <Content Include="Views\Registro\GuardarRegistro.cshtml" />
+    <Content Include="Views\Registro\Index.cshtml" />
+    <Content Include="Views\Registro\Details.cshtml" />
+    <Content Include="Views\Registro\Edit.cshtml" />
+    <Content Include="Views\Registro\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

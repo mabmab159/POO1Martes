@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\models\\iregistro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\iregistro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\views\\registro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\views\\registro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\models\\iregistro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\iregistro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\semana1\\views\\registro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\views\\registro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\semana1\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\models\\registro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\registro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\semana1\\views\\registro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\views\\registro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana1\\semana1\\models\\registro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\registro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\semana1\\models\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B316177A-5906-4C34-ADAC-D1AB2EDE382F}|Semana1\\Semana1.csproj|solutionrelative:semana1\\models\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IRegistro2.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\IRegistro2.cs",
-              "RelativeDocumentMoniker": "Semana1\\Models\\IRegistro2.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\IRegistro2.cs",
-              "RelativeToolTip": "Semana1\\Models\\IRegistro2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Semana1\\Views\\Registro\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Delete.cshtml",
+              "RelativeToolTip": "Semana1\\Views\\Registro\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T03:24:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Semana1\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Semana1\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:18:12.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T02:56:03.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IRegistro1.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\IRegistro1.cs",
-              "RelativeDocumentMoniker": "Semana1\\Models\\IRegistro1.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\IRegistro1.cs",
-              "RelativeToolTip": "Semana1\\Models\\IRegistro1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:17:52.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registro3.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro3.cs",
-              "RelativeDocumentMoniker": "Semana1\\Models\\Registro3.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro3.cs",
-              "RelativeToolTip": "Semana1\\Models\\Registro3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:17:27.93Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana1\\Views\\Registro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Index.cshtml",
+              "RelativeToolTip": "Semana1\\Views\\Registro\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T02:54:28.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Registro2.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro2.cs",
-              "RelativeDocumentMoniker": "Semana1\\Models\\Registro2.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro2.cs",
-              "RelativeToolTip": "Semana1\\Models\\Registro2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:17:20.406Z",
-              "EditorCaption": ""
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Semana1\\Views\\Registro\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Views\\Registro\\Edit.cshtml",
+              "RelativeToolTip": "Semana1\\Views\\Registro\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T02:52:16.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro.cs",
-              "RelativeDocumentMoniker": "Semana1\\Models\\Registro.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Registro.cs",
-              "RelativeToolTip": "Semana1\\Models\\Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Singleton.cs",
+              "RelativeDocumentMoniker": "Semana1\\Models\\Singleton.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana1\\Semana1\\Models\\Singleton.cs",
+              "RelativeToolTip": "Semana1\\Models\\Singleton.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:14:35.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T02:25:35.246Z"
             }
           ]
         }

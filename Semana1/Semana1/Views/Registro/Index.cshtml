@@ -1,8 +1,57 @@
-﻿
+﻿@model IEnumerable<Semana1.Models.Registro>
+
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Index - Registro</h2>
+<h2>Index</h2>
 
-<p>@ViewBag.fechaRegistro</p>
+<p>
+    @Html.ActionLink("Crear", "GuardarRegistro")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaRegistro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.edad)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.codigo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fechaRegistro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.edad)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { codigoRegistro = item.codigo }) |
+            @Html.ActionLink("Detalles", "Details", new { codigoRegistro = item.codigo  }) |
+            @Html.ActionLink("Eliminar", "Delete", new { codigoRegistro = item.codigo })
+        </td>
+    </tr>
+}
+
+</table>
