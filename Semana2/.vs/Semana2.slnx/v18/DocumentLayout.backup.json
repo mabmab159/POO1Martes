@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\models\\ipersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\ipersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana2\\semana2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723FB56F-2FCF-4CD2-A0CA-8CC1BE445375}|Semana2\\Semana2.csproj|solutionrelative:semana2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Persona\\Index.cshtml",
-              "RelativeDocumentMoniker": "Semana2\\Views\\Persona\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Persona\\Index.cshtml",
-              "RelativeToolTip": "Semana2\\Views\\Persona\\Index.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwDIAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T01:45:08.242Z",
+              "WhenOpened": "2026-01-24T16:07:58.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "Semana2\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "Semana2\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Semana2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Producto.cs",
+              "RelativeToolTip": "Semana2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:41:50.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Alumno.cs",
-              "RelativeDocumentMoniker": "Semana2\\Models\\Alumno.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Alumno.cs",
-              "RelativeToolTip": "Semana2\\Models\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:36:24.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPersona.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\IPersona.cs",
-              "RelativeDocumentMoniker": "Semana2\\Models\\IPersona.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\IPersona.cs",
-              "RelativeToolTip": "Semana2\\Models\\IPersona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:35:30.431Z",
+              "WhenOpened": "2026-01-24T16:07:07.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "Semana2\\Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Models\\Persona.cs",
-              "RelativeToolTip": "Semana2\\Models\\Persona.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-24T15:51:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Semana2\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana2\\Semana2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Semana2\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:34:29.108Z",
+              "WhenOpened": "2026-01-24T15:43:09.095Z",
               "EditorCaption": ""
             }
           ]

@@ -121,16 +121,20 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AlumnoController.cs" />
+    <Compile Include="Controllers\CursoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PersonaController.cs" />
+    <Compile Include="Controllers\ProductoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Alumno.cs" />
     <Compile Include="Models\AlumnoException.cs" />
     <Compile Include="Models\Alumno_Partial.cs" />
+    <Compile Include="Models\Curso.cs" />
     <Compile Include="Models\IPersona.cs" />
     <Compile Include="Models\Persona.cs" />
+    <Compile Include="Models\Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -187,6 +191,10 @@
     <Content Include="Views\Alumno\Index.cshtml" />
     <Content Include="Views\Alumno\Create.cshtml" />
     <Content Include="Views\Persona\Index.cshtml" />
+    <Content Include="Views\Curso\Index.cshtml" />
+    <Content Include="Views\Curso\Filtro.cshtml" />
+    <Content Include="Views\Producto\Index.cshtml" />
+    <Content Include="Views\Producto\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
