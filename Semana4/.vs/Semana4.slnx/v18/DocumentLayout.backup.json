@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\semana4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\views\\producto\\serializar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\views\\producto\\serializar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|c:\\users\\miguel\\desktop\\poomartes\\semana4\\semana4\\views\\producto\\deserializar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\semana4\\views\\producto\\deserializar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B2DF2D1D-A576-4DD2-97F9-A33AC54B926F}|Semana4\\Semana4.csproj|solutionrelative:semana4\\views\\producto\\deserializar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,30 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Semana4\\Views\\Producto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Details.cshtml",
+              "RelativeToolTip": "Semana4\\Views\\Producto\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T03:16:57.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Semana4\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Semana4\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T02:48:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana4\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Semana4\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T02:33:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Serializar.cshtml",
               "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Serializar.cshtml",
               "RelativeDocumentMoniker": "Semana4\\Views\\Producto\\Serializar.cshtml",
               "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Serializar.cshtml",
               "RelativeToolTip": "Semana4\\Views\\Producto\\Serializar.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-04T01:25:17.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Deserializar.cshtml",
               "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Deserializar.cshtml",
               "RelativeDocumentMoniker": "Semana4\\Views\\Producto\\Deserializar.cshtml",
               "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Views\\Producto\\Deserializar.cshtml",
               "RelativeToolTip": "Semana4\\Views\\Producto\\Deserializar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-04T00:49:39.286Z",
               "EditorCaption": ""
@@ -58,7 +109,7 @@
               "RelativeDocumentMoniker": "Semana4\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOMartes\\Semana4\\Semana4\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Semana4\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T00:45:51.122Z",
               "EditorCaption": ""
